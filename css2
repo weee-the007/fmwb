@@ -1,0 +1,24 @@
+﻿@font-face {
+  font-family: 'Prompt';
+  font-style: normal;
+  font-weight: 300;
+  src: url(s/prompt/v10/-W_8XJnvUD7dzB2Cy_g4bg.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Prompt';
+  font-style: normal;
+  font-weight: 400;
+  src: url(s/prompt/v10/-W__XJnvUD7dzB26Zw.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Prompt';
+  font-style: normal;
+  font-weight: 600;
+  src: url(s/prompt/v10/-W_8XJnvUD7dzB2Cv_44bg.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Prompt';
+  font-style: normal;
+  font-weight: 700;
+  src: url(s/prompt/v10/-W_8XJnvUD7dzB2C2_84bg.ttf) format('truetype');
+}
