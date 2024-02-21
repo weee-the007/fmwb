@@ -1,0 +1,54 @@
+
+
+.section-top-title.border-left::before,.custom--accordion .accordion-button:not(.collapsed),.pagination .page-item.active .page-link,.pagination .page-item .page-link:hover,.video--btn,.btn-outline--base:hover,.icon-btn,.custom--radio label::after,.header__top,.video-icon,.video-icon::before,.testimonial-item__thumb i,.testimonial-slider .slick-dots li.slick-active button,.how-work-card__step::before,.post-share li a:hover,.blog-sidebar .title::after,.qr-code-copy-form .text-copy-btn,.custom--file-upload::before,.table-tabs .nav-item .nav-link::after,.profile-thumb .avatar-edit label,.sidebar-menu__header::before,::selection, .footer-info-list i, .choose-item .icon{
+background-color: #4469FC;
+}
+
+.about-list li::before,.service-card__icon,bg--base {
+background: #4469FC;
+}
+.btn--base,.btn--base:hover,.bg--base {
+background: #4469FC!important;
+}
+
+a:hover,.section-top-title.border-left,.custom--dropdown .dropdown-menu li .dropdown-item:hover,.page-breadcrumb li:first-child::before,.page-breadcrumb li a:hover,.cmn-list li::before,.progress-wrap::after,.btn-outline--base,.badge--base,.custom--checkbox input:checked ~ label::before,.header .main-menu li.menu_has_children:hover > a::before,.header .main-menu li a:hover,.header .main-menu li a:focus,.header .main-menu li a.active,.header .main-menu li .sub-menu li a:hover,.header .main-menu li .sub-menu li a.active,.header-user-menu li a:hover,.feature-card i,.plan-feature-list li::before,.blog-item__btn:hover,.contact-info-card__icon i,.account-card .left .name i,.balance-card .balance i,.sidebar-menu__item.active .sidebar-menu__link,.sidebar-menu__item.sidebar-dropdown .sidebar-menu__link.side-menu--open,.sidebar-menu__link:hover,.sidebar-submenu ul li a:hover,.social-link-list li a:hover,.short-link-list li a:hover,.copyright-text a,.contact-btn:hover,.contact-btn:hover i{
+color: #4469FC;
+}
+
+a.text-white:not(.btn):hover,.text--base{
+color: #4469FC!important;
+}
+
+.border--base,.pagination .page-item .page-link:hover,#preloader:before,.btn-outline--base,.badge--bases,.custom--radio input[type="radio"]:checked ~ label::before,.blog-item__btn:hover,.post-share li a:hover,.add-money-card,.sidebar-menu__item.active .sidebar-menu__link,.sidebar-menu__item.sidebar-dropdown .sidebar-menu__link.side-menu--open {
+border-color: #4469FC;
+}
+.pagination .page-item .page-link{
+border: 1px solid #4469FC40;
+}
+
+.form--control:focus,.border--base,.contact-btn:hover{
+border-color: #4469FC!important;
+}
+
+.progress-wrap svg.progress-circle path{
+stroke: #4469FC;
+}
+
+.form--control:focus {
+box-shadow: 0 0 5px #4469FC59;
+}
+
+.about-list li::before {
+background: #4469FC;
+background: -webkit-linear-gradient(to bottom, #4469FC, #fff);
+background: linear-gradient(to bottom, #4469FC, #fff);
+}
+
+.plan-card {
+border-bottom: 3px solid #4469FC;
+}
+
+.form-control:focus {
+border-color: #4469FC;
+box-shadow: 0 0 0 0.25rem #4469FC40;
+}
